@@ -1,7 +1,7 @@
 *Download page for DeevVPN Installers & Toolkit*<br>
-/------------------------\
-| Https://www.deevvpn.io |
-\------------------------/
+--------------------------
+*** Https://www.deevvpn.io ***
+--------------------------
 
 Installer Checksums:
 
