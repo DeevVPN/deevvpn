@@ -17,7 +17,7 @@ DeevVPN.apk (6.25 MB)<br>
 MD5: 4e2be7219bc98f0b35c15b953c3b5d87<br>
 SHA256: b7e5c659b6f5fedb8f5627935ce22435b055e265e71ee06aed496e2299a8db46
 
-deevvpn.exe (71.7 MB)<br>
+deevvpn.exe (71.8 MB)<br>
 MD5: a1ad8cdc790d2be82474b40515db30fc<br>
 SHA256: 9a414006c8438acc106e1ee61a5f311faae6c8bad04e3176bc23a47ae5a160f9<br>
 
